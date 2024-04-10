@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 Here are some ideas to get you started:
 - 🔭 Actualmente estoy trabajando en mejorar mis habilidades de programación.
 - 🌱 Estoy aprendiendo a programar.
