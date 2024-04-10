@@ -1,16 +1,13 @@
 ### Hi there 👋
-
-<!--
-**JHONPARLIR/JHONPARLIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en mejorar mis habilidades de programación.
+- 🌱 Estoy aprendiendo a programar.
+- 👯 Estoy interesado en colaborar en proyectos pequeños para aplicar lo que he aprendido.
+- 🤔 Estoy buscando ayuda con phyton.
+- 💬 Puedes preguntarme sobre cualquier cosa relacionada con la programación básica, estaré encantado de ayudar.
+- 😄 Pronombres: jhon.
+- ⚡ Dato curioso: ¡Me encanta resolver problemas de programación y aprender algo nuevo cada día!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡No dudes en echar un vistazo a mi trabajo y a mis repositorios! Si tienes alguna pregunta o sugerencia, ¡estaré encantado de escucharte!
+
+¡Gracias por visitar mi perfil!
